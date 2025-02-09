@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ashutosh/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower/lib/python3.10/site-packages",
+        "/home/ashutosh/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/task_ws/install/hii/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/turtlebot3_ws/install/my_lawnmower/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/lawnmower_ws/install/my_lawnmower/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ashutosh/cognipilot/cranium/install/corti/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower/lib/python3.10/site-packages",
+        "/home/ashutosh/cognipilot/cranium/install/synapse_msgs/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/task_ws/install/hii/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/turtlebot3_ws/install/my_lawnmower/lib/python3.10/site-packages",
+        "/home/ashutosh/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ashutosh/lawnmower_ws/install/my_lawnmower/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/go4av05/workSpace/colorMarker_dev_ws/src/bringup",
+    "ros.distro": "humble"
+}
