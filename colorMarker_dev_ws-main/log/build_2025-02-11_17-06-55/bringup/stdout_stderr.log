@@ -1,0 +1,40 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/bringup
+-- Install configuration: ""
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup//launch
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup//launch/path_mapper.launch.py
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup//launch/path_mapper.launch.xml
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup//rviz
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup//rviz/rviz_config.rviz
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup//worlds
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup//worlds/empty.world.xml
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/ament_index/resource_index/package_run_dependencies/bringup
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/ament_index/resource_index/parent_prefix_path/bringup
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/environment/ament_prefix_path.sh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/environment/ament_prefix_path.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/environment/path.sh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/environment/path.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/local_setup.bash
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/local_setup.sh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/local_setup.zsh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/local_setup.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/package.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/ament_index/resource_index/packages/bringup
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/cmake/bringupConfig.cmake
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/cmake/bringupConfig-version.cmake
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/bringup/share/bringup/package.xml

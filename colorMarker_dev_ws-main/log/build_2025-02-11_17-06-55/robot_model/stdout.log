@@ -1,0 +1,47 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model
+-- Install configuration: ""
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_gps.xacro
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/lawn_mower.urdf.xacro
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_cam_right.xacro
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_imu.xacro
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_cam_left.xacro
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/left_cam.xacro
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/right_cam.xacro
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/lawn_mower.gazebo
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//launch
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//launch/launch_grass_cutter.launch.py
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//launch/grass_cutter.launch.xml
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//rviz
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//rviz/rviz_config.rviz
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/ament_index/resource_index/package_run_dependencies/robot_model
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/ament_index/resource_index/parent_prefix_path/robot_model
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/ament_prefix_path.sh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/ament_prefix_path.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/path.sh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/path.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.bash
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.sh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.zsh
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/package.dsv
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/ament_index/resource_index/packages/robot_model
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/cmake/robot_modelConfig.cmake
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/cmake/robot_modelConfig-version.cmake
+-- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/package.xml

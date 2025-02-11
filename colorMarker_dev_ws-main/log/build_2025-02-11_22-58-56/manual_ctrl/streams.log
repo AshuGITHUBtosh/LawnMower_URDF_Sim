@@ -1,0 +1,68 @@
+[0.030s] Invoking command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --build /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl -- -j16 -l16
+[0.113s] Built target ament_cmake_python_copy_manual_ctrl
+[0.381s] running egg_info
+[0.381s] writing manual_ctrl.egg-info/PKG-INFO
+[0.381s] writing dependency_links to manual_ctrl.egg-info/dependency_links.txt
+[0.382s] writing top-level names to manual_ctrl.egg-info/top_level.txt
+[0.386s] reading manifest file 'manual_ctrl.egg-info/SOURCES.txt'
+[0.386s] writing manifest file 'manual_ctrl.egg-info/SOURCES.txt'
+[0.447s] Built target ament_cmake_python_build_manual_ctrl_egg
+[0.463s] Invoked command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --build /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl -- -j16 -l16
+[0.465s] Invoking command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --install /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl
+[0.475s] -- Install configuration: ""
+[0.475s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/environment/pythonpath.sh
+[0.475s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/environment/pythonpath.dsv
+[0.476s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl-0.0.0-py3.10.egg-info
+[0.476s] -- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.476s] -- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.476s] -- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl-0.0.0-py3.10.egg-info/top_level.txt
+[0.476s] -- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl-0.0.0-py3.10.egg-info/PKG-INFO
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/gui
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/gui/whitw_bg.png
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/gui/color_marker.ui
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/path_mapper.py
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/control_gui.py
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/__init__.py
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/tempCodeRunnerFile.py
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/maps
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/maps/map2.pgm
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/maps/map1.yaml
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/maps/map1.pgm
+[0.477s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/maps/map2.yaml
+[0.510s] Listing '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl'...
+[0.510s] Listing '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/gui'...
+[0.510s] Listing '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/local/lib/python3.10/dist-packages/manual_ctrl/maps'...
+[0.515s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/lib/manual_ctrl/path_mapper.py
+[0.515s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/lib/manual_ctrl/control_gui.py
+[0.516s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl
+[0.516s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/gui
+[0.516s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/gui/whitw_bg.png
+[0.516s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/gui/color_marker.ui
+[0.516s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/path_mapper.py
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/control_gui.py
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/__init__.py
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/__pycache__
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/__pycache__/path_mapper.cpython-310.pyc
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/tempCodeRunnerFile.py
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/maps
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/maps/map2.pgm
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/maps/map1.yaml
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/maps/map1.pgm
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl//manual_ctrl/maps/map2.yaml
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/ament_index/resource_index/package_run_dependencies/manual_ctrl
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/ament_index/resource_index/parent_prefix_path/manual_ctrl
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/environment/ament_prefix_path.sh
+[0.517s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/environment/ament_prefix_path.dsv
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/environment/path.sh
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/environment/path.dsv
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/local_setup.bash
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/local_setup.sh
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/local_setup.zsh
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/local_setup.dsv
+[0.518s] -- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/package.dsv
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/ament_index/resource_index/packages/manual_ctrl
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/cmake/manual_ctrlConfig.cmake
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/cmake/manual_ctrlConfig-version.cmake
+[0.518s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/manual_ctrl/share/manual_ctrl/package.xml
+[0.522s] Invoked command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --install /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl

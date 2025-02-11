@@ -1,0 +1,35 @@
+[0.027s] Invoking command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --build /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model -- -j16 -l16
+[0.087s] Invoked command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --build /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model -- -j16 -l16
+[0.089s] Invoking command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --install /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model
+[0.100s] -- Install configuration: ""
+[0.101s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf
+[0.101s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_gps.xacro
+[0.101s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/lawn_mower.urdf.xacro
+[0.101s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_cam_right.xacro
+[0.101s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_imu.xacro
+[0.101s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/mower_cam_left.xacro
+[0.101s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/left_cam.xacro
+[0.102s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/right_cam.xacro
+[0.102s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//urdf/lawn_mower.gazebo
+[0.102s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//launch
+[0.102s] -- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//launch/launch_grass_cutter.launch.py
+[0.102s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//launch/grass_cutter.launch.xml
+[0.102s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//launch/path_mapper.launch.py
+[0.102s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//rviz
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model//rviz/rviz_config.rviz
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/ament_index/resource_index/package_run_dependencies/robot_model
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/ament_index/resource_index/parent_prefix_path/robot_model
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/ament_prefix_path.sh
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/ament_prefix_path.dsv
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/path.sh
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/environment/path.dsv
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.bash
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.sh
+[0.103s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.zsh
+[0.104s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/local_setup.dsv
+[0.104s] -- Installing: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/package.dsv
+[0.104s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/ament_index/resource_index/packages/robot_model
+[0.104s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/cmake/robot_modelConfig.cmake
+[0.104s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/cmake/robot_modelConfig-version.cmake
+[0.104s] -- Up-to-date: /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/install/robot_model/share/robot_model/package.xml
+[0.122s] Invoked command in '/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashutosh/task_ws/install/hii:/home/ashutosh/cognipilot/cranium/install/b3rb_ros_line_follower:/home/ashutosh/turtlebot3_ws/install/turtlebot3_teleop:/home/ashutosh/turtlebot3_ws/install/turtlebot3_example:/home/ashutosh/turtlebot3_ws/install/my_lawnmower:/home/ashutosh/lawnmower_ws/install/my_lawnmower:/opt/ros/humble /usr/bin/cmake --install /home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/robot_model

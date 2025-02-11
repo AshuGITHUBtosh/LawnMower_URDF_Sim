@@ -1,0 +1,9 @@
+setup.py
+manual_ctrl/__init__.py
+manual_ctrl/control_gui.py
+manual_ctrl/path_mapper.py
+manual_ctrl/tempCodeRunnerFile.py
+manual_ctrl.egg-info/PKG-INFO
+manual_ctrl.egg-info/SOURCES.txt
+manual_ctrl.egg-info/dependency_links.txt
+manual_ctrl.egg-info/top_level.txt

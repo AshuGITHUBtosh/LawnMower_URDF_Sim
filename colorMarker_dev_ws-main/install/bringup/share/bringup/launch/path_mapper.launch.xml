@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<launch>
+    <!-- Step 1: URDF and RViz configurations -->
+    <let name="urdf_path" value="$(find-pkg-share robot_model)/urdf/lawn_mower.urdf.xacro" />
+    <let name="rviz_config_path" value="$(find-pkg-share robot_model)/rviz/rviz_config.rviz" />
+
+    <!-- Step 2: Robot State Publisher Node -->
+    <node pkg="robot_state_publisher" exec="robot_state_publisher">
+        <param name="robot_description" value="$(command 'xacro $(var urdf_path)')" />
+    </node>
+
+    <!-- Step 3: Gazebo Launch with Empty World -->
+    <include file="$(find-pkg-share gazebo_ros)/launch/gazebo.launch.py">
+        <arg name="world" value="bringup/worlds/empty.world.xml" />
+    </include>
+
+    <!-- Step 4: Spawn the Robot Entity in Gazebo -->
+    <node pkg="gazebo_ros" exec="spawn_entity.py" name="spawn_entity"
+        args="-topic robot_description -entity colorMarker" />
+
+    <!-- Step 5: Start RViz2 -->
+    <node pkg="rviz2" exec="rviz2" output="screen" args="-d $(var rviz_config_path)" />
+
+    <!-- Step 6: Run path_mapper.py from the manual_ctrl package -->
+    <node pkg="manual_ctrl" exec="path_mapper.py" name="path_mapper" output="screen" />
+</launch>

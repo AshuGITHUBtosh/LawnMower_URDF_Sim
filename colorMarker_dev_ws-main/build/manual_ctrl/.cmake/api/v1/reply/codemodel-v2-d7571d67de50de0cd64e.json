@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-939d7fd2b5e8a42400c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "manual_ctrl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_manual_ctrl_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_manual_ctrl_egg-1f86db7162e732350823.json",
+					"name" : "ament_cmake_python_build_manual_ctrl_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_manual_ctrl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_manual_ctrl-2909e28d1bdd41ce145d.json",
+					"name" : "ament_cmake_python_copy_manual_ctrl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "manual_ctrl_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-manual_ctrl_uninstall-ef75952881f42d481197.json",
+					"name" : "manual_ctrl_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-850e9b7a269509c9bad7.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/build/manual_ctrl",
+		"source" : "/home/ashutosh/Desktop/LawnMower_URDF_Sim/colorMarker_dev_ws-main/src/manual_ctrl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
