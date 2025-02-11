@@ -1,5 +1,5 @@
-## Lawn Mower Bot Simulation in Gazebo
-# Overview
+# Lawn Mower Bot Simulation in Gazebo
+## Overview
 This project simulates a manually controlled lawn mower bot in Gazebo using ROS2. As the rover moves, the system subscribes to its odometry data and dynamically traces its path on an empty canvas, providing real-time visualization of its trajectory. This allows users to track the movement of the rover while operating it manually.
 ## Features
  -Gazebo simulation of an autonomous lawn mower bot.
