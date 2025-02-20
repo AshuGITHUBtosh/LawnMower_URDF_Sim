@@ -14,7 +14,7 @@ This project simulates a manually controlled lawn mower bot in Gazebo using ROS2
  - ``` cd src/manual_ctrl/manual_ctrl ```
  - ``` python3 control_gui.py ```
    
-   the above commands should open a UI, click on start recording, it will open a gazebo simulation and a empty canvas.
+### The above commands should open a UI, click on start recording, it will open a gazebo simulation and a empty canvas.
 
    
 - open a new a terminal
